@@ -12,11 +12,11 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
-  - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Ahmad Bin Rabiah
+  - Mohammed Alsakabi
+  - Omar Aldayel
+  - Saleh Alshebeili
+author_notes: []
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -26,7 +26,8 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: SDR-Based Hardware Implementation and Performance Measurement of Transmit
+  Beampattern Design Algorithms
 doi: ""
 featured: true
 tags: []
@@ -38,7 +39,7 @@ image:
   preview_only: false
 date: 2021-08-11T09:52:01.724Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
